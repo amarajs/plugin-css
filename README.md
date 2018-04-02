@@ -1,4 +1,4 @@
-## @amarajs/plugin-css
+## [@amarajs/plugin-css](https://github.com/amarajs/plugin-css)
 
 Plugin middleware for AmaraJS to add CSS styles and classes to DOM nodes dynamically.
 
@@ -73,7 +73,7 @@ This plugin has no customization options.
 
 If you have a feature request, please create a new issue so the community can discuss it.
 
-If you find a defect, please submit a bug report that includes a working link to reproduce the problem (for example, using [jsBin](https://jsbin.com)). Of course, pull requests to fix open issues are always welcome!
+If you find a defect, please submit a bug report that includes a working link to reproduce the problem (for example, using [this fiddle](https://jsfiddle.net/04f3v2x4/)). Of course, pull requests to fix open issues are always welcome!
 
 ### License
 
